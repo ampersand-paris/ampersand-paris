@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 I am Ampersand Paris.
+<br>
 During the day, I am a Front-End Developer, and at night, I am a Performing Artist in the spotlight. 
 Pronouns: she/her they/them 
 
