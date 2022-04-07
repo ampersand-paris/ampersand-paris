@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-I am Ampersand Paris.
+I am Ampersand Paris (she/her/they/them).
 <br>
-During the day, I am a Front-End Developer, and at night, I am a Performing Artist in the spotlight. 
-Pronouns: she/her they/them 
+During the day, I am a Front-End Developer, and at night, I am a Performing Artist in the spotlight. I am interested in collaborating on projects with designers and engineers willing to disrupt the status quo for socially driven impacts and committed to developing beautiful and accessible virtual spaces. 
 
 I'm currently working on building a new website for FAILSPACE Design Services using a React Front-End Framework.
 FSDS is a project I began in 2020. We 
