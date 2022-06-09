@@ -7,6 +7,9 @@ During the day, I am a Front-End Developer, and at night, I am a Performing Arti
 I'm currently working on freelance projects through FAILSPACE Design Services. FSDS is a design studio I began with a design partner in 2020. Together we design and build websites while providing subsidized rates for artits and non-profits.  
 
 Languages: JavaScript (ES6) | HTML & HTML5 | ✨ CSS & CSS3 | ✨ Python
+<br>
 Libraries and Frameworks: ✨ React | Node.js | Express.js | Django | Git & GitHub
+<br>
 Database: MongoDB | Mongoose |  SQL
+<br>
 ✨ indicates love language
